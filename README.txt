@@ -31,3 +31,4 @@ New pull request
 dal som mu len nadpis, komentar, a dal som MERGE
 spojilo to dokopy a vidno teraz pekne v grafe tie Branche
 
+//tento README viem upravovat iba v Githube
