@@ -12,3 +12,5 @@ git commit 	//pridam popisok shift+ins
 
 // kopcim to SHIFT +Insert
 git remote add origin https://github.com/furda18/Skuskobny-projekt2.git
+git push -u origin master //tymito som to pridal na stranku
+
