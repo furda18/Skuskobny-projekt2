@@ -158,3 +158,5 @@ void ukoncenie(AUTOBAZARY **p_prve){ //ukoncenie programu a uvolnenie pamati
     }while(*p_prve != NULL);
 
 }
+
+//kk
