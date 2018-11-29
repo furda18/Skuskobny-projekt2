@@ -24,6 +24,7 @@ git add .  //pridalo to
 git commit //zakomentoval som commit - SHIFT+insert, Esc na zadanie :wq a preplo ma to nazad
 git remote -v //ze ci to ukladam do dobreho repozitara
 git push --all //pridalo mi to na github
+git pull origin master //prepise mi to z githubu do priecinka
 
 Github:
 isiel som do Branchov
