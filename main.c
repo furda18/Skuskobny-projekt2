@@ -17,7 +17,7 @@ typedef struct autobazary
 
 void nacitanie_zaznamov(AUTOBAZARY **p_prve);
 void vypis(AUTOBAZARY *p_prve);
-void ukoncenie(AUTOBAZARY **p_prve);
+void ukoncenie(AUTOBAZARY **p_prve);            //ukoncenie programu
 
 int main()
 {
@@ -37,11 +37,7 @@ int main()
         case 'v':
 			vypis(p_prve);
 			break;
-<<<<<<< HEAD
-        case 'k':
-=======
         case 'k':                       //koniec programu
->>>>>>> function_k
             ukoncenie(&p_prve);
             podmienka=1;
             break;
@@ -146,11 +142,9 @@ void vypis(AUTOBAZARY *p_prve)
 	}
 }
 
-<<<<<<< HEAD
-void ukoncenie(AUTOBAZARY **p_prve){
-=======
+
 void ukoncenie(AUTOBAZARY **p_prve){ //ukoncenie programu a uvolnenie pamati
->>>>>>> function_k
+
 
     AUTOBAZARY *p_aktualne;
 
