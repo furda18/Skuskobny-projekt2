@@ -160,3 +160,4 @@ void ukoncenie(AUTOBAZARY **p_prve){ //ukoncenie programu a uvolnenie pamati
 }
 
 //kk
+// dal by si salamu
